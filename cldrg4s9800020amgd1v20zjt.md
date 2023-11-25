@@ -3,6 +3,7 @@ title: "Announcing Project 24"
 datePublished: Sun Feb 05 2023 13:55:00 GMT+0000 (Coordinated Universal Time)
 cuid: cldrg4s9800020amgd1v20zjt
 slug: announcing-project-24
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700882940176/77e78936-d70f-49e6-a9ca-cc786377357a.jpeg
 tags: game-development, games, unreal-engine, nestjs, indiedev
 
 ---

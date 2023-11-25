@@ -1,8 +1,9 @@
 ---
-title: "Its been a while"
+title: "Its Been A While"
 datePublished: Sat Nov 25 2023 03:36:42 GMT+0000 (Coordinated Universal Time)
 cuid: clpdi28f2000d0al1hxu8baxc
 slug: its-been-a-while
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700883540369/5108acf0-3a45-4b1e-944c-031481ca9627.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700883372559/608a3ccb-0d23-4c79-9256-bb911585aced.jpeg
 tags: game-development, unreal-engine, nestjs, indiedev, devblog, game-dev
 
